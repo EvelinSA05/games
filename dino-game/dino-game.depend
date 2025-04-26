@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1745576412 source:d:\evelin s a\percobaan coding\dino-game\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<ctime>
+
